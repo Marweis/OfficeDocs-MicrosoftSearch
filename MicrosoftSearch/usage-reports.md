@@ -35,6 +35,7 @@ The [Microsoft Search usage reports](https://admin.microsoft.com/Adminportal/Hom
 
 >[!NOTE]
 >There is currently a known issue where queries satisfied by an answer like a Bookmark are counted as an abandoned query.
+>Usage Analytics are unavailable for GCC, GCC High, and DOD customers. 
 
 ## Viewing reports
 
