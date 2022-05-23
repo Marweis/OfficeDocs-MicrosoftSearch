@@ -46,7 +46,7 @@ As a site owner, you can change these defaults using the following command:
 
 ```powershell
 Set-PnPSearchSettings -SearchScope Tenant
-# DefaultScope | Hub | Site | Tenant
+# DefaultScope | Tenant | Hub | Site 
 ```
 
 After running this command, the site that was previously showing results from the current site by default will start to show results from the whole organization.
