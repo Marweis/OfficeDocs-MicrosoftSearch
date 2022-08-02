@@ -43,7 +43,7 @@ If your organization's proxy servers or firewalls block communication to unknown
 5. https://<span>graph.microsoft.</span>com/
 
 >[!NOTE]
->Proxy authentication is not supported. If your environment has a proxy that requires authentication, we recommend allowing the connector agent to bypass the proxy.
+>Proxy authentication is not supported. If your environment has a proxy that requires authentication, we recommend allowing the connector agent to bypass the proxy using an authorized domain service account to logon to the service.
 
 ## Create and configure an app for the agent  
 
